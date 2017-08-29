@@ -1,0 +1,26 @@
+{
+ 
+  "header":[
+    {"pic":"../src/pubilc/img/top.jpg"}
+   
+   
+  ],
+  "kuaiBox":[
+    {"pic":"../src/pubilc/img/da.jpg","tol":"大话足球","auth":"关注288","detail":"帖子277345"},
+    {"pic":"../src/pubilc/img/da.jpg","tol":"大话足球","auth":"关注288","detail":"帖子277345"},
+    {"pic":"../src/pubilc/img/da.jpg","tol":"大话足球","auth":"关注288","detail":"帖子277345"},
+    {"pic":"../src/pubilc/img/da.jpg","tol":"大话足球","auth":"关注288","detail":"帖子277345"}
+   
+  ],
+  
+ 
+  "zuixin":[
+    {"pic1":"../src/pubilc/img/35.jpg","pic2":"../src/pubilc/img/36.jpg","pic2":"../src/pubilc/img/37.jpg","auth":"午饭TV","detail":"11评论"},
+    {"pic1":"../src/pubilc/img/35.jpg","pic2":"../src/pubilc/img/36.jpg","pic2":"../src/pubilc/img/37.jpg","auth":"午饭TV","detail":"11评论"},
+    {"pic1":"../src/pubilc/img/35.jpg","pic2":"../src/pubilc/img/36.jpg","pic2":"../src/pubilc/img/37.jpg","auth":"午饭TV","detail":"11评论"},
+    {"pic1":"../src/pubilc/img/35.jpg","pic2":"../src/pubilc/img/36.jpg","pic2":"../src/pubilc/img/37.jpg","auth":"午饭TV","detail":"11评论"},
+    {"pic1":"../src/pubilc/img/35.jpg","pic2":"../src/pubilc/img/36.jpg","pic2":"../src/pubilc/img/37.jpg","auth":"午饭TV","detail":"11评论"},
+    {"pic1":"../src/pubilc/img/35.jpg","pic2":"../src/pubilc/img/36.jpg","pic2":"../src/pubilc/img/37.jpg","auth":"午饭TV","detail":"11评论"},
+  	{"pic1":"../src/pubilc/img/35.jpg","pic2":"../src/pubilc/img/36.jpg","pic2":"../src/pubilc/img/37.jpg","auth":"午饭TV","detail":"11评论"}
+  ]
+}

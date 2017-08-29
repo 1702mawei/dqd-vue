@@ -1,0 +1,51 @@
+{
+  "ZhiBoMainData": [
+    {"title": "天下足球","date": "《2017.红与黑》","result": "1—3","running": "已结束","team1": "皇家社会","team2": "比利亚雷亚尔","pic1":"src/public/img/t212.jpg","pic2":"src/public/img/t213.jpg"},
+    {"title": "天下足球","date": "《2017.红与黑》","result": "2—2","running": "已结束","team1": "科隆","team2": "汉堡","pic1":"src/public/img/t212.jpg","pic2":"src/public/img/t213.jpg"},
+    {"title": "天下足球","date": "《2017.红与黑》","result": "3—1","running": "已结束","team1": "巴黎圣日耳曼","team2": "圣埃蒂安","pic1":"src/public/img/t212.jpg","pic2":"src/public/img/t213.jpg"},
+    {"title": "天下足球","date": "《2017.红与黑》","result": "3—0","running": "已结束","team1": "皇家贝蒂斯","team2": "水晶宫","pic1":"src/public/img/t212.jpg","pic2":"src/public/img/t213.jpg"},
+    {"title": "天下足球","date": "《2017.红与黑》","result": "1—1","running": "已结束","team1": "丽江飞虎","team2": "新疆体彩","pic1":"src/public/img/t212.jpg","pic2":"src/public/img/t213.jpg"},
+    {"title": "天下足球","date": "《2017.红与黑》","result": "2—1","running": "已结束","team1": "伯恩茅斯","team2": "曼城","pic1":"src/public/img/t212.jpg","pic2":"src/public/img/t213.jpg"},
+    {"title": "天下足球","date": "《2017.红与黑》","result": "3—1","running": "已结束","team1": "石家庄永昌","team2": "武汉卓尔","pic1":"src/public/img/t212.jpg","pic2":"src/public/img/t213.jpg"},
+    {"title": "天下足球","date": "《2017.红与黑》","result": "2—3","running": "已结束","team1": "呼和浩特","team2": "浙江毅腾","pic1":"src/public/img/t212.jpg","pic2":"src/public/img/t213.jpg"},
+    {"title": "天下足球","date": "《2017.红与黑》","result": "1—2","running": "已结束","team1": "深圳佳兆业","team2": "大连一方","pic1":"src/public/img/t212.jpg","pic2":"src/public/img/t213.jpg"},
+    {"title": "天下足球","date": "《2017.红与黑》","result": "0—3","running": "已结束","team1": "沃特福德","team2": "水晶宫","pic1":"src/public/img/t212.jpg","pic2":"src/public/img/t213.jpg"}
+  ],
+    "ZhiBoMainData1":[
+    {"pic1":"src/public/img/t313.jpg","pic2":"src/public/img/t312.jpg","course":"英冠第23轮","result":"3—0","running":"已结束","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t313.jpg","pic2":"src/public/img/t312.jpg","course":"英冠第23轮","result":"3—0","running":"已结束","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t313.jpg","pic2":"src/public/img/t312.jpg","course":"英冠第23轮","result":"3—0","running":"已结束","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t313.jpg","pic2":"src/public/img/t312.jpg","course":"英冠第23轮","result":"3—0","running":"已结束","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t313.jpg","pic2":"src/public/img/t312.jpg","course":"英冠第23轮","result":"3—0","running":"已结束","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t313.jpg","pic2":"src/public/img/t312.jpg","course":"英冠第23轮","result":"3—0","running":"已结束","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t313.jpg","pic2":"src/public/img/t312.jpg","course":"英冠第23轮","result":"3—0","running":"已结束","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t313.jpg","pic2":"src/public/img/t312.jpg","course":"英冠第23轮","result":"3—0","running":"已结束","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t313.jpg","pic2":"src/public/img/t312.jpg","course":"英冠第23轮","result":"3—0","running":"已结束","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t313.jpg","pic2":"src/public/img/t312.jpg","course":"英冠第23轮","result":"3—0","running":"已结束","team1":"布莱顿","team2":"女王公园"}
+  ],
+  "ZhiBoMainData2":[
+    {"time":"2017-7-26周四","pic1":"src/public/img/t211.jpg","site":"决战知春路","fight":"懂球帝VS精神堂","running":"已结束"},
+    {"time":"2017-7-26周四","pic1":"src/public/img/t411.jpg","site":"决战知春路","fight":"懂球帝VS精神堂","running":"已结束"},
+    {"time":"2017-7-26周四","pic1":"src/public/img/t412.jpg","site":"决战知春路","fight":"懂球帝VS精神堂","running":"已结束"},
+    {"time":"2017-7-26周四","pic1":"src/public/img/t211.jpg","site":"决战知春路","fight":"懂球帝VS精神堂","running":"已结束"},
+    {"time":"2017-7-26周四","pic1":"src/public/img/t411.jpg","site":"决战知春路","fight":"懂球帝VS精神堂","running":"已结束"},
+    {"time":"2017-7-26周四","pic1":"src/public/img/t412.jpg","site":"决战知春路","fight":"懂球帝VS精神堂","running":"已结束"},
+    {"time":"2017-7-26周四","pic1":"src/public/img/t411.jpg","site":"决战知春路","fight":"懂球帝VS精神堂","running":"已结束"},
+    {"time":"2017-7-26周四","pic1":"src/public/img/t211.jpg","site":"决战知春路","fight":"懂球帝VS精神堂","running":"已结束"}
+  ],
+  "ZhiBoMainData3":[
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第16轮","result":"3—0","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第17轮","result":"3—1","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第18轮","result":"3—2","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第19轮","result":"3—3","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第20轮","result":"2—0","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第21轮","result":"2—3","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第22轮","result":"2—2","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第23轮","result":"2—1","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第24轮","result":"3—3","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第25轮","result":"2—3","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第26轮","result":"2—2","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第27轮","result":"1—2","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"},
+    {"pic1":"src/public/img/t511.jpg","pic2":"src/public/img/t512.jpg","course":"英超第28轮","result":"4—3","running":"已结束","pic3":"src/public/img/t513.jpg","team1":"布莱顿","team2":"女王公园"}
+  ]
+}

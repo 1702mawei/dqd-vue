@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    width:100%;
+}
+html{
+    font-size:9.33vw;
+}
+
+li{
+    list-style: none;
+  }
+input{
+    border:none;
+}
+a{
+    text-decoration: none;
+} 
